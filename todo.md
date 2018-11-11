@@ -1,8 +1,8 @@
 # ToDo for glueSemWB
 
-#Fixes/Bugs
+# Fixes/Bugs
 
-#Additional functions:
+# Additional functions:
 
 - add more lexicon items:
     - more modifiers
